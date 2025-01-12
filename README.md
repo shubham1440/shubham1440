@@ -1,21 +1,25 @@
 ## Hi there 👋
 
-<!--
-**shubham1440/shubham1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Shubham Kaushik!
 
-Technology & Tools:
-JavaScript React NodeJS Express.js MongoDB Postman C++ Python HTML5 TailwindCSS CSS3 MUI Git Bitbucket GitHub Heroku Netlify Visual Studio Code LeetCode
+🌟 About Me:
 
+💻 Software Engineer with 2.8+ years of experience at EbixCash (Via.com).
+🏗️ Passionate about building scalable web applications and learning new technologies.
+🎓 Focused on IT programming, software development, and sharing knowledge with others.
+🚀 What I Do:
 
+🔧 Currently exploring Angular 19 and modern front-end frameworks.
+🌐 Owner of Gopal Hospital, balancing healthcare management and tech innovations.
+🎥 Creator of an educational YouTube channel focused on programming and software knowledge.
+💡 Skills:
 
-Here are some ideas to get you started:
+Java | Spring Boot
+JavaScript | Angular
+REST APIs | Microservices
+SQL | NoSQL Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect:
+   https://shubhamkaushik.netlify.app/
+🌐 LinkedIn
+📧 Email: your-email@example.com
