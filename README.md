@@ -3,14 +3,18 @@
 Welcome to my corner of GitHub! 🚀 I'm a Software Engineer passionate about building robust applications, exploring innovative technologies, and sharing my knowledge with the tech community.
 
 <h3 align="">🌟 About Me</h2>
-💻 Professional Journey: Software Engineer at EbixCash (Via.com), specializing in the travel and tourism industry, similar to booking portals.
-🎓 Expertise: Proficient in IT programming, software development, and building scalable solutions for the travel sector.
-🎥 Educator: Passionate about teaching, I run an educational YouTube channel to help aspiring developers understand practical programming and software concepts.
+
+💻 Professional Journey:
+  Software Engineer at EbixCash (Via.com), specializing in the travel and tourism industry, similar to booking portals.
+
+🎓 Expertise:
+  Proficient in IT programming, software development, and building scalable solutions for the travel sector.
+
+🎥 Educator:
+  Passionate about teaching, I run an educational YouTube channel to help aspiring developers understand practical programming and software concepts.
 
 
-💡 Skills & Technologies
 
-<h3>Languages: </h3>
 <h3 align="">Technology & Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
