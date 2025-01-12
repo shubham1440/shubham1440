@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! 🚀 I'm a Software Engineer passionate about bu
 💡 Skills & Technologies
 
 <h3>Languages: </h3>
-https://img.shields.io/badge/any_text-you_like-blue
+JavaScript React NodeJS Express.js MongoDB Postman C++ Python HTML5 TailwindCSS CSS3 MUI Git Bitbucket GitHub Heroku Netlify Visual Studio Code LeetCode
 
 <h3>Frameworks: </h3>
       Spring Boot, Angular 19
