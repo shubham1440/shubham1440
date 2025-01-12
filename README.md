@@ -34,11 +34,15 @@ Welcome to my corner of GitHub! 🚀 I'm a Software Engineer passionate about bu
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 &nbsp;
 
-<h3>Frameworks: </h3>
-      Spring Boot, Angular 19
-<h3>Technologies: </h3>
-      REST APIs, Microservices, SQL, NoSQL
-<h3>Tools: </h3>
-      Git, Docker, IntelliJ IDEA, Postman
+<h3>Frameworks:</h3>
+  Spring Boot, Angular 19
+
+<h3>Technologies:</h3>
+  REST APIs, Microservices, SQL, NoSQL
+
+<h3>Tools:</h3>
+  Git, Docker, IntelliJ IDEA, Postman
+
+
 
 
