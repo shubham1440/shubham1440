@@ -3,6 +3,11 @@
 <!--
 **shubham1440/shubham1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Technology & Tools:
+JavaScript React NodeJS Express.js MongoDB Postman C++ Python HTML5 TailwindCSS CSS3 MUI Git Bitbucket GitHub Heroku Netlify Visual Studio Code LeetCode
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
