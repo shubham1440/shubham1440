@@ -10,8 +10,7 @@ Welcome to my corner of GitHub! 🚀 I'm a Software Engineer passionate about bu
 💡 Skills & Technologies
 
 <h3>Languages: </h3>
-      ![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+https://img.shields.io/badge/any_text-you_like-blue
 
 <h3>Frameworks: </h3>
       Spring Boot, Angular 19
