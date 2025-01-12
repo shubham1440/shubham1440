@@ -2,24 +2,4 @@
 
 👋 Hi, I'm Shubham Kaushik!
 
-🌟 About Me:
-
-💻 Software Engineer with 2.8+ years of experience at EbixCash (Via.com).
-🏗️ Passionate about building scalable web applications and learning new technologies.
-🎓 Focused on IT programming, software development, and sharing knowledge with others.
-🚀 What I Do:
-
-🔧 Currently exploring Angular 19 and modern front-end frameworks.
-🌐 Owner of Gopal Hospital, balancing healthcare management and tech innovations.
-🎥 Creator of an educational YouTube channel focused on programming and software knowledge.
-💡 Skills:
-
-Java | Spring Boot
-JavaScript | Angular
-REST APIs | Microservices
-SQL | NoSQL Databases
-
-📫 Let's Connect:
-   https://shubhamkaushik.netlify.app/
-🌐 LinkedIn
-📧 Email: your-email@example.com
+https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465
