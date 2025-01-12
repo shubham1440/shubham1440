@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! 🚀 I'm a Software Engineer passionate about bu
 <h3 align="">🌟 About Me</h2>
 
 💻 Professional Journey:
-  Software Engineer at EbixCash (Via.com), specializing in the travel and tourism industry, similar to booking portals.
+  Software Engineer at Via.com, specializing in the travel and tourism industry, similar to booking portals.
 
 🎓 Expertise:
   Proficient in IT programming, software development, and building scalable solutions for the travel sector.
