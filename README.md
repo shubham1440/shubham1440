@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Shubham Kaushik 👋</h1>
 
 <p align="center">
-  <em>Software Engineer · Full-Stack Developer · Educator</em>
+  <em>Software Engineer · Full-Stack Developer</em>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannel"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube" alt="YouTube"/></a>
   <a href="https://leetcode.com/u/shubhamkaushik1440/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/shubham-kaushik-901b75192/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </p>
@@ -63,10 +62,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
----
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
