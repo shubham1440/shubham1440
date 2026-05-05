@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@YourChannel"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube" alt="YouTube"/></a>
-  <a href="https://leetcode.com/u/YourProfile"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
-  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/shubhamkaushik1440/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/shubham-kaushik-901b75192/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
