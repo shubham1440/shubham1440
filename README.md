@@ -16,7 +16,6 @@
 
 - 💼 **Software Engineer at Via.com** — building scalable travel & booking platforms
 - 🏥 **Building Gopal Hospital** — a multi-module healthcare management system (Spring Boot, Thymeleaf, 26-role hierarchy)
-- 🎓 **Educator** — running a YouTube channel teaching practical programming and system design
 - 🎯 **Focus areas** — distributed systems, clean architecture, CI/CD automation
 
 ---
@@ -65,13 +64,6 @@
 
 ---
 
-### 🏗️ What I'm Building
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **Gopal Hospital** | Spring Boot, Thymeleaf, MySQL, Flyway | Multi-module hospital management system with 26-role hierarchy, operations management, and CI/CD |
-| **Via.com Platform** | Java, Microservices, REST APIs | Travel booking platform serving thousands of daily transactions |
-
 ---
 
 ### 📊 GitHub Stats
@@ -86,5 +78,4 @@
 ### 📫 Let's Connect
 
 - 💼 Open to collaborations on healthcare tech, travel platforms, and open-source projects
-- 📧 Reach me via [LinkedIn](https://linkedin.com/in/YourProfile)
-- 🎥 Learn with me on [YouTube](https://www.youtube.com/@YourChannel)
+- 📧 Reach me via [LinkedIn](https://www.linkedin.com/in/shubham-kaushik-901b75192/)
